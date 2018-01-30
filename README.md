@@ -6,7 +6,7 @@ This is a maintained fork of ember-cli-emojify
 ![Emojify Icons](https://cloud.githubusercontent.com/assets/29342/8999460/78e3c256-36ef-11e5-95a8-15a2cd82414c.jpg)
 ## Installation
 ```sh
-ember install ember-cli-emoji
+ember install ember-cli-emojii
 ```
 ## Setup
 Add your *Emoji* configuration to your app's config
