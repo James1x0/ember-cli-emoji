@@ -3,6 +3,6 @@ module.exports = {
   normalizeEntityName: function() {},
 
   afterInstall: function() {
-    return this.addPackageToProject('emojify', '~1.1.0');
+    return this.addPackageToProject('emojify.js', '~1.1.0');
   }
 };

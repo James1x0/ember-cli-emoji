@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-emojii",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Emoji.js for Ember",
   "keywords": [
     "ember-addon"
