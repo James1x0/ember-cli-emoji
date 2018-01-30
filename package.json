@@ -1,12 +1,12 @@
 {
-  "name": "ember-cli-emoji",
-  "version": "0.0.3",
-  "description": "Emoji for Ember.",
+  "name": "ember-cli-emojii",
+  "version": "1.0.0",
+  "description": "Emoji.js for Ember",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "James1x0",
   "directories": {
     "doc": "doc",
     "test": "tests"
